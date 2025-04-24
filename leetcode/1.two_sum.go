@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/two-sum/
+//#array #hash_table
 
 func twoSum(nums []int, target int) []int {
 	data := map[int]int{}

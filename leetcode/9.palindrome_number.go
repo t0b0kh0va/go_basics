@@ -1,4 +1,6 @@
 //https://leetcode.com/problems/palindrome-number/description/
+//#math
+
 func isPalindrome(x int) bool {
 	var k int
 	tmp := x
